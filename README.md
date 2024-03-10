@@ -10,6 +10,9 @@ This project consists of two main components:
 
 2. **React Frontend**: This provides a user-friendly interface for uploading images and viewing the generated captions. Users can interact with the frontend to upload images, which are then sent to the FastAPI backend for caption generation.
 
+3. **vgg16** : we have implemented vgg16 to extract the features from the images
+
+
 Setup
 
 ### FastAPI Backend
@@ -23,5 +26,4 @@ Setup
 
 ![image](https://github.com/helloworld2j/TRINITcodecraftersML3/assets/119477908/10b11ddf-c2c7-4408-8def-a8b0283e5496)
 
-# Youtube video 
 
