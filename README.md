@@ -22,8 +22,4 @@ Setup
    ```bash
    git clone <repository_url>
 
-# we had a goood bleu score and here is the screenshot of the code 
-
-![image](https://github.com/helloworld2j/TRINITcodecraftersML3/assets/119477908/10b11ddf-c2c7-4408-8def-a8b0283e5496)
-
 
